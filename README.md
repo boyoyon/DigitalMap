@@ -106,5 +106,13 @@
                 <tr><td>ウィンドウ閉じるボタン押下　</td><td>プログラム終了</td></tr>
             </table>
         </p>
+        <h2>(備忘録)　50m数値地図</h2>
+        <p>
+        　　昔購入した 50m数値地図のCD-ROMがあったので、numpy arrayに変換してみた。<br>
+        　　python src\50mMap2npy.py (MEMファイルへのワイルドカード)<br>
+            <br>
+        　　CD-ROMにファイルフォーマットの説明が入っているがわかりにくかったので絵にしてみた。<br>
+        　　<img src="images/50m_map_format.svg"></a>
+        </p>
     </body>
 </html>
