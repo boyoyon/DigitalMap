@@ -117,7 +117,7 @@
             <img src="images/50mMap_workflow.svg"><br>
             layout.pngはこんな感じ<br>
         　　<img src="images/layout.png"><br>
-        　　高精細画像はdataフォルダに入っています。<br>
+        　　高精細画像はdataフォルダに入っています。<br><br>
         3D表示例<br>
         　　<img src="images/ScreenCapture.png">
         </p>
