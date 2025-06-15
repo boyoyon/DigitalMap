@@ -119,7 +119,25 @@
         　　<img src="images/layout.png"><br>
         　　高精細画像はdataフォルダに入っています。<br><br>
         3D表示例<br>
-        　　<img src="images/ScreenCapture.png">
+        　　<img src="images/ScreenCapture.png"><br><br>
+        python src\o3d_display_mesh_with_key_callback.py  (plyファイル)<br>
+                <table border="1">
+                <tr><th>操作</th><th>機能</th></tr>
+                <tr><td>左ボタン押下＋ドラッグ</td><td>3Dモデルの回転</td></tr>
+                <tr><td>ホイールボタン押下＋ドラッグ</td><td>3Dモデルの移動</td></tr>
+                <tr><td>ホイールボタン押下＋ドラッグ</td><td>3Dモデルの移動</td></tr>
+                <tr><td>キー１押下</td><td>3Dモデルの回転(yaw up)</td></tr>
+                <tr><td>キー２押下</td><td>3Dモデルの回転(yaw down)</td></tr>
+                <tr><td>キー３押下</td><td>3Dモデルの回転(pitch up)</td></tr>
+                <tr><td>キー４押下</td><td>3Dモデルの回転(pitch down)</td></tr>
+                <tr><td>キー５押下</td><td>3Dモデルの回転(roll up)</td></tr>
+                <tr><td>キー６押下</td><td>3Dモデルの回転(roll down)</td></tr>
+                <tr><td>キー［押下</td><td>画角変更</td></tr>
+                <tr><td>SHIFT+キー＠押下</td><td>画角変更</td></tr>
+                <tr><td>ホイール回転</td><td>3Dモデルの拡大・縮小</td></tr>
+                <tr><td>PrintScreenキー押下</td><td>スクリーンショット保存</td></tr>
+                <tr><td>ウィンドウ閉じるボタン押下　</td><td>プログラム終了</td></tr>
+            </table>
         </p>
     </body>
 </html>
