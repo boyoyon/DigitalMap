@@ -112,7 +112,14 @@
         　　python src\50mMap2npy.py (MEMファイルへのワイルドカード)<br>
             <br>
         　　CD-ROMにファイルフォーマットの説明が入っているがわかりにくかったので絵にしてみた。<br>
-        　　<img src="images/50m_map_format.svg"></a>
+        　　<img src="images/50m_map_format.svg"></a><br>
+            50m数値地図の3Dモデル化のワークフロー<br>
+            <img src="images/50mMap_workflow.svg"><br>
+            layout.pngはこんな感じ<br>
+        　　<img src="images/layout.png"><br>
+        　　高精細画像はdataフォルダに入っています。<br>
+        3D表示例<br>
+        　　<img src="images/ScreenCapture.png">
         </p>
     </body>
 </html>
